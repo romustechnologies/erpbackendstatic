@@ -1,0 +1,2 @@
+(this.webpackJsonpgdc121=this.webpackJsonpgdc121||[]).push([[57],{2159:function(e,t,n){"use strict";n.r(t);var a=n(1),c=n.n(a),r=n(1067),i=n(157),s=n(19);t.default=function(){var e=Object(i.d)((function(e){return e.token}));return"true"===Object(i.d)((function(e){return e.isLoggedIn}))&&""!==e?c.a.createElement(c.a.Fragment,null,c.a.createElement("div",{className:"text-center mt-3"},c.a.createElement(r.y,{src:"Images/college_erp.png",width:"50%",height:"50%"}))):c.a.createElement(s.a,{to:"/Login"})}}}]);
+//# sourceMappingURL=57.37932709.chunk.js.map
